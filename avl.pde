@@ -1,8 +1,3 @@
-/*
-Move textboxes to the top
-Make cursor for the textboxes when selected
-*/
-
 final int INSERT_TEXTBOX_X = 75;
 final int DELETE_TEXTBOX_X = 200;
 final int FIND_TEXTBOX_X = 325;
